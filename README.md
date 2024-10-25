@@ -17,3 +17,7 @@
 ## TP 5
 
 [repo TP5](https://github.com/brendan-vis/TP5)
+
+## TP 6
+
+[repo TP6](https://github.com/brendan-vis/TP6)
